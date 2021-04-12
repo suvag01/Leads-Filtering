@@ -1,4 +1,4 @@
 # Leads-Filtering
 <br>Author-Suvajit
 <br>Date - 12/4/2021
-<br>Lead generation from an online survey</pr>
+<br>Lead generation from an online survey using Logistic Regression </pr>
